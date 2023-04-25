@@ -17,4 +17,14 @@
 // 0 <= t.length <= 104
 // s and t consist only of lowercase English letters
 
-function isSubsequence(s, t) {}
+function isSubsequence(s, t) {
+    let i = 0;
+    let j = 0;
+    while (i < s.length && j < t.length) {
+        if (s[i] === t[j]) i++;
+        j++;
+    }
+    return i === s.length;
+}
+
+console.log(isSubsequence("axc", "ahbgdc"));
