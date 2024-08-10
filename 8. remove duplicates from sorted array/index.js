@@ -42,7 +42,7 @@ function removeDuplicates(nums) {
             nums[i] = nums[j]
         }
     }
-    return i + 1
+    return nums.length
 }
 
 console.log(removeDuplicates([0, 0, 1, 1, 1, 2, 2, 3, 3, 4]))

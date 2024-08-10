@@ -1,6 +1,6 @@
 # Leetcode-Problems
 
-List of problems solved using JS
+List of problems solved using JavaScript
 
 | #    | Title                                  | Difficulty | Link                                                                            |
 | ---- | -------------------------------------- | ---------- | ------------------------------------------------------------------------------- |
@@ -14,3 +14,5 @@ List of problems solved using JS
 | 26   | Remove Duplicates from Sorted Array    | Easy       | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array)    |
 | 80   | Remove Duplicates from Sorted Array II | Medium     | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) |
 | 169  | Majority Element                       | Easy       | [Problem](https://leetcode.com/problems/majority-element)                       |
+| 189  | Rotate Array                           | Medium     | [Problem](https://leetcode.com/problems/rotate-array)                           |
+| 121  | Best Time to Buy and Sell Stock        | Easy       | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)        |
